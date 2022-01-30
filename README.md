@@ -8,7 +8,7 @@ Addició de recuadres per delimitar les obres. Aquesta addició és progressiva.
 
 
 VERSIÓ 1.0.2
-Canvi de documento audiovisual de la Sonata en Sol Menor d'Eccles.
+Canvi de document audiovisual de la Sonata en Sol Menor d'Eccles.
 Finalització de l'aplicació de l'indicador de versió.
 
 

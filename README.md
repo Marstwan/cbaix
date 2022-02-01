@@ -1,6 +1,6 @@
 # cbaix
 
-El disseny del lloc web pertany a [HTML5 UP](https://html5up.net/). Distribueix plantilles de llocs web sota llicència CCA 3.0. Per obtenir més informació, visita la [secció de llicències del seu lloc web](https://html5up.net/license).
+El disseny del lloc web pertany a [HTML5 UP](https://html5up.net/); distribueix plantilles de llocs web sota llicència CCA 3.0. Per obtenir més informació, visita la [secció de llicències del seu lloc web](https://html5up.net/license).
 
 ## Versions
 VERSIÓ 1.0.3

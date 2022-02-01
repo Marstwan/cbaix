@@ -14,6 +14,6 @@ VERSIÓ 1.0.2
 
 
 VERSIÓ 1.0.1
-- Addició d'aquesta pantalla amb la finalitat d'informar dels moviments i correccions del projecte
+- Addició de la pàgina d'[actualitzacions](https://marstwan.github.io/cbaix/actualitzacions.html) amb la finalitat d'informar dels moviments i correccions del projecte
 - Detectat i corregit un problema relacionat amb la redirecció a arxius. [Simandl/Estudi 1](https://marstwan.github.io/cbaix/simandl.html)
 - Indicador de versió per pàgina/pantalla. Aplicació progressiva.

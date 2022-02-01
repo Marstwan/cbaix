@@ -5,6 +5,7 @@ El disseny del lloc web pertany a [HTML5 UP](https://html5up.net/). Distribueix 
 ## Versions
 VERSIÓ 1.0.3
 - Addició de recuadres per delimitar visualment les obres. Aquesta addició és progressiva.
+- Solucionat un problema amb la redirecció: Fauré --> Inici
 
 
 VERSIÓ 1.0.2
